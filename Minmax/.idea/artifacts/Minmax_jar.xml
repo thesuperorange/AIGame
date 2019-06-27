@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Minmax:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Minmax_jar</output-path>
+    <root id="archive" name="Minmax.jar">
+      <element id="module-output" name="Minmax" />
+    </root>
+  </artifact>
+</component>
